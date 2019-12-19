@@ -8,7 +8,7 @@ namespace Ex2
         {
             // Void que vai rodar;
             Ex1();
-            // Ex2();
+            Ex2();
             Ex3();
             Ex4();
             Ex5();
@@ -16,11 +16,9 @@ namespace Ex2
 
         static void Ex1()
         {
-            // Algorítmo média
 
             Console.WriteLine("Digite a idade dos 5 alunos: ");
 
-            // Otimizei variáveis
             int input1 = Convert.ToInt32(Console.ReadLine ());
             int input2 = Convert.ToInt32(Console.ReadLine ());
             int input3 = Convert.ToInt32(Console.ReadLine ());
@@ -33,7 +31,6 @@ namespace Ex2
         }
         static void Ex2()
         {
-            // Algorítimo par e ímpar
 
             Console.WriteLine("Digite um número: ");
             int input = Convert.ToInt32(Console.ReadLine ());
@@ -48,11 +45,9 @@ namespace Ex2
         }
         static void Ex3()
         {
-            //Algorítimo maiores
 
             Console.WriteLine("Digite a idade das 10 pessoas: ");
 
-            // Otimizei variáveis
             int input1 = Convert.ToInt32(Console.ReadLine ());
             int input2 = Convert.ToInt32(Console.ReadLine ());
             int input3 = Convert.ToInt32(Console.ReadLine ());
@@ -64,7 +59,6 @@ namespace Ex2
             int input9 = Convert.ToInt32(Console.ReadLine ());
             int input10 = Convert.ToInt32(Console.ReadLine ());
 
-            // Utilizei foreach
             int [] inputs = new int [] {input1,input2,input3,input4,input5,input6,input7,input8,input9,input10};
             int maiores = 0;
 
@@ -83,7 +77,6 @@ namespace Ex2
 
             Console.WriteLine("Digite o salário dos 10 funcionários: ");
 
-            // Otimizei variáveis
             double sal1 = Convert.ToDouble(Console.ReadLine ());
             double sal2 = Convert.ToDouble(Console.ReadLine ());
             double sal3 = Convert.ToDouble(Console.ReadLine ());
@@ -117,7 +110,6 @@ namespace Ex2
         }
         static void Ex5()
         {
-            //Algorítimo altura
 
             Console.WriteLine("Digite a altura dos 10 alunos: ");
 

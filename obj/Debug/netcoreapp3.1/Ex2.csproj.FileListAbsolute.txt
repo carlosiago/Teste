@@ -1,0 +1,11 @@
+C:\projeto\Ex2\obj\Debug\netcoreapp3.1\Ex2.csprojAssemblyReference.cache
+C:\projeto\Ex2\obj\Debug\netcoreapp3.1\Ex2.AssemblyInfoInputs.cache
+C:\projeto\Ex2\obj\Debug\netcoreapp3.1\Ex2.AssemblyInfo.cs
+C:\projeto\Ex2\bin\Debug\netcoreapp3.1\Ex2.exe
+C:\projeto\Ex2\bin\Debug\netcoreapp3.1\Ex2.deps.json
+C:\projeto\Ex2\bin\Debug\netcoreapp3.1\Ex2.runtimeconfig.json
+C:\projeto\Ex2\bin\Debug\netcoreapp3.1\Ex2.runtimeconfig.dev.json
+C:\projeto\Ex2\bin\Debug\netcoreapp3.1\Ex2.dll
+C:\projeto\Ex2\bin\Debug\netcoreapp3.1\Ex2.pdb
+C:\projeto\Ex2\obj\Debug\netcoreapp3.1\Ex2.dll
+C:\projeto\Ex2\obj\Debug\netcoreapp3.1\Ex2.pdb

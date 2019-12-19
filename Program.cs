@@ -8,7 +8,7 @@ namespace Ex2
         {
             // Void que vai rodar;
             Ex1();
-            Ex2();
+            // Ex2();
             Ex3();
             Ex4();
             Ex5();
